@@ -34,9 +34,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {children}
         </main>
         <footer className="footer">
-          <p>&copy; 2024 Hectronic India Pvt. Ltd. Privacy protection GTC's Imprint</p>
+          <p>&copy; 2024 Hectronic India Pvt. Ltd. Privacy protection GTC&apos;s Imprint</p>
         </footer>
-      </body>
+      </body> 
     </html>
   );
 }
