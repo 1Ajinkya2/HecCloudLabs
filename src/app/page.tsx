@@ -29,9 +29,6 @@ export default function Home() {
       <h1 className="text-3xl font-bold mb-8">Our Products</h1>
       <Products products={products} />
       <div className="mt-8">
-        <Link href="/solution/2">
-          <p className="text-blue-500 hover:underline">Go to solution 2</p>
-        </Link>
       </div>
     </main>
   );
